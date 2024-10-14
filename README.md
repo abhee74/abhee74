@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhijeet-kumar-1b39b7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23651331/abhijeet-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23651331/abhijeet-kumar?tab=profile" height="30" width="40" /></a>
-<a href="https://discord.gg/1153746219508715591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1153746219508715591" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/1153746219508715591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1153746219508715591" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
